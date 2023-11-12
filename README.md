@@ -13,10 +13,11 @@ Currently, I am eager to apply my skills and knowledge to **real-world scenarios
 I am **actively seeking opportunities** that align with these priorities. And ready put my 100% into it.
 
 <p align="center">
-<img height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=smmehrab&show_icons=false&count_private=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs" alt="Github Stats">
-<img height="200" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=smmehrab&card_width=200&theme=dark&hide_border=true&background=00000000&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
-<img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=smmehrab&layout=compact&hide_border=true&theme=dark&bg_color=00000000" alt="Mostly Used Languages">
+  <img height="200" width="250" src="https://github-readme-stats.vercel.app/api?username=smmehrab&show_icons=false&count_private=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs" alt="Github Stats">
+  <img height="200" width="250" src="https://github-readme-streak-stats.herokuapp.com?user=smmehrab&card_width=200&theme=dark&hide_border=true&background=00000000&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
+  <img height="200" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmehrab&layout=compact&hide_border=true&theme=dark&bg_color=00000000" alt="Mostly Used Languages">
 </p>
+
 
 ## Skills
 
