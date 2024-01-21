@@ -5,7 +5,7 @@ I am [S.M.Mehrabul Islam](https://github.com/smmehrab), completed my B.Sc. in Co
 Priorities
 - 📚 Research & Development
 - 💡 In-depth understanding of complex systems/solutions
-- 🛠️ Come up with a solution to a real life problem.
+- 🛠️ Come up with a solution to a real-life problem.
 
 Interests
 - Computer Networking & Security
