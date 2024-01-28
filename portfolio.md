@@ -6,8 +6,7 @@
 
 
 ## Skills
-
-![Languages](https://img.shields.io/badge/Languages-gray) [![C++](https://img.shields.io/badge/C%2B%2B-blue)](https://en.cppreference.com/) [![Java](https://img.shields.io/badge/Java-orange)](https://www.java.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-green)](https://www.python.org/) </br>
+![Languages](https://img.shields.io/badge/Languages-gray) [![C++](https://img.shields.io/badge/C%2B%2B-blue)](https://en.cppreference.com/) [![Java](https://img.shields.io/badge/Java-orange)](https://www.java.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-green)](https://www.python.org/) [![C#](https://img.shields.io/badge/C%23-purple)](https://docs.microsoft.com/en-us/dotnet/csharp/) </br>
 ![Databases](https://img.shields.io/badge/Databases-gray) [![MySQL](https://img.shields.io/badge/MySQL-blueviolet)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgresSQL-blueviolet)](https://www.postgresql.org/) [![NoSQL](https://img.shields.io/badge/NoSQL-green)](https://www.mongodb.com/) </br>
 ![Web Development](https://img.shields.io/badge/Web%20Development-gray) [![Node.js](https://img.shields.io/badge/Node.js-brightgreen)](https://nodejs.org/) [![Django](https://img.shields.io/badge/Django-blue)](https://www.djangoproject.com/) </br>
 ![Android Development](https://img.shields.io/badge/Android%20Development-gray) [![Java](https://img.shields.io/badge/Java-brightgreen)](https://developer.android.com/) </br>
