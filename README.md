@@ -1,6 +1,8 @@
 ## Hey, there! 👋
 
-I am [S.M.Mehrabul Islam](https://www.linkedin.com/in/smmehrab/), always in search of elegant solutions that amaze me. So, [send](mailto:smmehrab.public@gmail.com) it.
+I am [S.M.Mehrabul Islam](https://www.linkedin.com/in/smmehrab/), always in search of elegant solutions that amaze me.
+
+Email: [smmehrab.public@gmail.com](mailto:smmehrab.public@gmail.com)
 
 ## Priorities
 - 📚 Research & Development
