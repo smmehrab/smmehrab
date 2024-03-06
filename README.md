@@ -1,6 +1,7 @@
 ## Hey, there! 👋
 
-I am [S.M.Mehrabul Islam](https://github.com/smmehrab), completed my B.Sc. in Computer Science and Engineering from [University of Dhaka](https://www.du.ac.bd/body/CSE).
+I am [S.M.Mehrabul Islam](https://github.com/smmehrab), a computer science graduate, always in search of elegant solutions that amaze me.
+So, [send](smmehrab.public@gmail.com) it.
 
 Priorities
 - 📚 Research & Development
